@@ -74,12 +74,3 @@ This project provides valuable insights into Amazon's sales performance, allowin
 ![image](https://github.com/user-attachments/assets/bbfed49d-d4b8-4c67-8876-aef079171999)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Thanks to [Dataset Source] for providing the dataset used in this analysis.
-- Inspiration from various data analysis tutorials and Power BI resources.
-
